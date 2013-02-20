@@ -1,0 +1,108 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Landmark": "Grata Moore House", "ID": 4, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 910822.578084502369165, 415404.456664003431797 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Nathaniel Collamore House", "ID": 5, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 911587.258969835937023, 414685.693993918597698 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "William H. Mills House", "ID": 11, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 911376.409654002636671, 413253.791017837822437 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Zebulon Smith House", "ID": 15, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 913396.817030500620604, 411938.089581005275249 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Ellen R. Doe Kellogg House", "ID": 13, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 912865.476229667663574, 412475.053402088582516 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Bangor House", "ID": 16, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 913522.389614000916481, 412670.908981502056122 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Adams - Pickering Block", "ID": 24, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 913565.496811252087355, 413253.791017837822437 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Wheelwright Block", "ID": 25, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 913933.780523501336575, 413683.924015834927559 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Wardwell - Trickey - Carleton House", "ID": 8, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 911854.959878001362085, 414505.768828839063644 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "George L. Phillips House", "ID": 9, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 911802.481964584439993, 414368.950860999524593 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Charles W. Jenkins House", "ID": 27, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 915183.296069085597992, 414234.550211168825626 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "George Stetson House", "ID": 36, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 914333.650458667427301, 414795.56614950299263 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "David Fuller House", "ID": 38, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 914218.698260750621557, 415900.105607084929943 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Sargent - Roberts House", "ID": 34, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 915893.000358335673809, 415047.960985921323299 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Samuel Farrar House", "ID": 6, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 912252.29438516870141, 414775.656412422657013 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Jonathan Eddy House", "ID": 33, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 916022.087042417377234, 414902.708979837596416 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "John Crosby House", "ID": 30, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 917079.614783000200987, 415402.656798839569092 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "St. John's Catholic Church", "ID": 28, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 916457.374229583889246, 414652.969649918377399 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Thomas O'Leary House", "ID": 29, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 917949.876822002232075, 415187.642465084791183 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Charles G. Bryant Double House", "ID": 39, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 912676.659021999686956, 416261.908033087849617 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Morse & Co. Office Building", "ID": 40, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 912204.356160834431648, 416002.563079334795475 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Godfrey - Kellogg House", "ID": 41, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 911632.094838168472052, 417896.851285502314568 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Maplewood", "ID": 42, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 911946.963302917778492, 418145.497441753745079 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Jones P. Veazie House", "ID": 43, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 912386.780008584260941, 417864.364801920950413 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Fire Station 6", "ID": 44, "List": "Both" }, "geometry": { "type": "Point", "coordinates": [ 913298.899575415998697, 418182.981946833431721 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "East Bangor Church", "ID": 46, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 903886.857375916093588, 434003.772483669221401 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Burleigh-Sawyer House", "ID": 45, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 910437.974851083010435, 423557.430843584239483 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Elmar T. Boyd House", "ID": 37, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 914307.442833919078112, 415492.111672416329384 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Carr - Wing House", "ID": 47, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 918594.288919001817703, 416471.062142334878445 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "William Gallup House", "ID": 21, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 912390.879081752151251, 413768.368400752544403 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Farrington - Sewall - Smith House", "ID": 32, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 916683.639196999371052, 415235.983575753867626 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Benjamin Mace House", "ID": 48, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 919352.792323250323534, 416401.405129417777061 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Bangor Waterworks", "ID": 49, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 921502.926474418491125, 417416.239385835826397 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Treat - Bragg House", "ID": 12, "List": "Local" }, "geometry": { "type": "Point", "coordinates": [ 911780.05943725258112, 412523.210786089301109 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "All Souls Congregational Church", "ID": 26, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 914754.06037900224328, 414188.276025503873825 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Fire House No. 5", "ID": 31, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 916811.633691668510437, 415303.178651332855225 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Bangor Childrens House", "ID": 2, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 911265.943995669484138, 415975.147451750934124 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Bangor Standpipe", "ID": 1, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 910840.078705668449402, 415954.578923337161541 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "USS Maine Monument", "ID": 14, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 913176.263009667396545, 412289.728969588875771 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Hannibal Hamlin House", "ID": 10, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 911537.201983332633972, 413500.03068283945322 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Isaac Farrar Mansion", "ID": 17, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 912897.792766083031893, 413103.240465916693211 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Thomas A. Hill House", "ID": 18, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 913056.833786584436893, 413221.667722500860691 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "84-96 Hammond St", "ID": 23, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 913432.798585835844278, 413727.944597087800503 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Hammond St Congregational Church", "ID": 22, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 913043.31051966920495, 413646.017267502844334 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Bangor Mental Health Institute", "ID": 50, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 921618.032871499657631, 419594.545068584382534 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Blake House", "ID": 7, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 912369.891919001936913, 414697.07356433570385 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Edward Kent - Jonas Cutting House", "ID": 35, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 914899.019078586250544, 415019.74844391644001 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Gen. John Williams House", "ID": 19, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 913180.365691751241684, 413168.955229505896568 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Joseph W. Low House", "ID": 3, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 910827.930436000227928, 415766.960860252380371 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Grand Army Memorial Home", "ID": 20, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 913058.234046250581741, 413299.06586167216301 ] } }
+,
+{ "type": "Feature", "properties": { "Landmark": "Morse Covered Bridge", "ID": 51, "List": "National" }, "geometry": { "type": "Point", "coordinates": [ 904925.44355333596468, 407787.300310418009758 ] } }
+
+]
+}
