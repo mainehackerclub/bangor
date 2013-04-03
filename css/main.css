@@ -1,4 +1,33 @@
 body {
-  max-width: 50em;
-  margin: 0 auto;
+  background: #f0f0f0;
+  padding: 1em;
+  color: #444;
+}
+ul {
+  padding: 0;
+}
+li {
+  list-style-type: none;
+}
+h1.title a {
+  color: #444;
+  text-decoration: none;
+}
+nav {
+  max-width: 15em;
+}
+nav header {
+  border-bottom: 2px solid #ddd;
+}
+nav ul h1 {
+  font-size: 1rem;
+}
+nav li {
+  display: inline;
+}
+nav li.entry {
+  background: #fff;
+}
+nav li a {
+  font-size: 0.8rem;
 }
