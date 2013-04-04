@@ -1,4 +1,4 @@
-City Bangor GIS Datasets
+[mainehackerclub.github.com/bangor](http://mainehackerclub.github.com)
 ===
 
 *Thank you Bangor!*
