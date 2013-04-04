@@ -1,4 +1,4 @@
-[mainehackerclub.github.com/bangor](http://mainehackerclub.github.com)
+[Bangor GIS!](http://mainehackerclub.github.com/bangor)
 ===
 
 *Thank you Bangor!*
