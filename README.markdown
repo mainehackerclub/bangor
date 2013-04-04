@@ -1,7 +1,7 @@
 [Bangor GIS!](http://mainehackerclub.github.com/bangor)
 ===
 
-*Thank you Bangor!*
+![](http://3.bp.blogspot.com/-9d3wGj8T0tE/UVbcDSypKVI/AAAAAAAAA8Y/1EDorbVVYZE/s400/boondock-gunless+Seth+M.jpg)
 
 Data provided in both [GEOJSON](https://github.com/mainehackerclub/bangor/tree/master/geojson) and [SHAPEFILE](https://github.com/mainehackerclub/bangor/tree/master/shapefile) formats.
 
