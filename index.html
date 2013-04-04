@@ -12,55 +12,80 @@
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/main.css">
-
-    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v2/themes/css/cartodb.css" />
+    
   </head>
   <body>
 
     <nav>
       <header>
         <h1 class="title"><a href="/">Bangor!</a></h1>
-        <p>Spatial data for the city of Bangor, ME</p>
+        <p><em>Spatial data for the city of Bangor, ME</em></p>
       </header>
       <ul>
-        <li class="entry">
+        <div class="entry">
           <h1>Buildings</h1>
           <li><a href="#">Shapefile</a></li>
           <li><a href="#">GeoJSON</a></li>
-        </li>
-        <li class="entry">
+        </div>
+        <div class="entry">
           <h1>Parcels</h1>
           <li><a href="#">Shapefile</a></li>
           <li><a href="#">GeoJSON</a></li>
-        </li>
-        <li class="entry">
+        </div>
+        <div class="entry">
           <h1>On-street Parking</h1>
           <li><a href="#">Shapefile</a></li>
           <li><a href="#">GeoJSON</a></li>
-        </li>
-        <li class="entry">
+        </div>
+        <div class="entry">
           <h1>Historic sites</h1>
           <li><a href="#">Shapefile</a></li>
           <li><a href="#">GeoJSON</a></li>
-        </li>
-        <li class="entry">
+        </div>
+        <div class="entry">
           <h1>Streams</h1>
           <li><a href="#">Shapefile</a></li>
           <li><a href="#">GeoJSON</a></li>
-        </li>
-        <li class="entry">
+        </div>
+        <div class="entry">
           <h1>Trails</h1>
           <li><a href="#">Shapefile</a></li>
           <li><a href="#">GeoJSON</a></li>
-        </li>
+        </div>
       </ul>
     </nav>
 
-    <div class="content">
-      <!-- MAP -->
-    </div>
+    <div id="map"></div>
  
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+    <script src="http://libs.cartocdn.com/cartodb.js/v2/cartodb.js"></script>
+    <script>
+      var map = L.map('map', {
+        zoomControl: false,
+        center: [44.8011, -68.7783],
+        zoom: 16
+      })
+
+      L.tileLayer('http://tile.stamen.com/toner/{z}/{x}/{y}.png').addTo(map);
+
+      cartodb.createLayer(map, 'http://mainehackerclub.cartodb.com/api/v1/viz/25820/viz.json', {
+        query: 'select * from {{table_name}}' // if you remove this the query applied in the editor will be used
+      })
+       .on('done', function(layer) {
+        map.addLayer(layer);
+
+        layer.on('featureOver', function(e, pos, latlng, data) {
+          cartodb.log.log(e, pos, latlng, data);
+        });
+
+        layer.on('error', function(err) {
+          cartodb.log.log('error: ' + err);
+        });
+
+      }).on('error', function() {
+        cartodb.log.log("some error occurred");
+      });
+    </script>
+
   </body>
 </html>
