@@ -19,5 +19,6 @@ Contributing
 
 Let's get this into [OpenStreetMap](http://www.openstreetmap.org/)! New to OSM? Start [here](http://learnosm.org/en/).
 
-
-
+Live site
+---
+This map project is hosted on GitHub @ [http://mainehackerclub.github.com/bangor/](http://mainehackerclub.github.com/bangor/).
