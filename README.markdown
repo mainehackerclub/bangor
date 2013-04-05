@@ -1,7 +1,7 @@
-City Bangor GIS Datasets
+[Bangor GIS!](http://mainehackerclub.github.com/bangor)
 ===
 
-*Thank you Bangor!*
+![](http://3.bp.blogspot.com/-9d3wGj8T0tE/UVbcDSypKVI/AAAAAAAAA8Y/1EDorbVVYZE/s400/boondock-gunless+Seth+M.jpg)
 
 Data provided in both [GEOJSON](https://github.com/mainehackerclub/bangor/tree/master/geojson) and [SHAPEFILE](https://github.com/mainehackerclub/bangor/tree/master/shapefile) formats.
 
@@ -19,5 +19,6 @@ Contributing
 
 Let's get this into [OpenStreetMap](http://www.openstreetmap.org/)! New to OSM? Start [here](http://learnosm.org/en/).
 
-
-
+Live site
+---
+This map project is hosted on GitHub @ [http://mainehackerclub.github.com/bangor/](http://mainehackerclub.github.com/bangor/).
