@@ -20,29 +20,35 @@ h1.title a {
 }
 nav {
   position: fixed;
-  width: 20%;
+  max-width: 25%;
   z-index: 9999;
   padding: 1em;
   margin: 1em;
   border: 2px dotted #eee;
-  background: #fff;
+  background: rgba(255,255,255,0.9);
   text-align: center;
 }
 nav header p {
   font-size: 0.8rem;
 }
+nav ul {
+  border-top: 2px dotted #eee;
+  padding-top: 1em;
+}
 nav ul h1 {
   font-size: 0.8rem;
 }
+nav div {
+  border-bottom: 1px solid #eee;
+}
 nav li {
-  display: inline;
+  display: inline-block;
+  width: 31%;
+  font-size: 0.8rem;
 }
 nav li a {
-  font-size: 0.8rem;
   text-decoration: none;
   display: inline;
-  background: #fff;
-  padding: 0.25em;
 }
 #map {
   width: 100%;
