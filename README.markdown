@@ -22,3 +22,4 @@ Let's get this into [OpenStreetMap](http://www.openstreetmap.org/)! New to OSM? 
 Live site
 ---
 This map project is hosted on GitHub @ [http://mainehackerclub.github.com/bangor/](http://mainehackerclub.github.com/bangor/).
+=======
