@@ -18,6 +18,3 @@ Contributing
 ---
 
 Let's get this into [OpenStreetMap](http://www.openstreetmap.org/)! New to OSM? Start [here](http://learnosm.org/en/).
-
-
-
