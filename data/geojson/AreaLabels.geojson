@@ -1,0 +1,308 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Label": "Woodlawn" }, "geometry": { "type": "Point", "coordinates": [ -68.748539240546634, 44.820692480083849 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Stillwater Park" }, "geometry": { "type": "Point", "coordinates": [ -68.758343224755862, 44.818013387315069 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Little City" }, "geometry": { "type": "Point", "coordinates": [ -68.776148729005087, 44.814042862172094 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Whitney Park" }, "geometry": { "type": "Point", "coordinates": [ -68.784480172075661, 44.802178671840409 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Thomas Hill" }, "geometry": { "type": "Point", "coordinates": [ -68.783422513771114, 44.807481700455924 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "West Side" }, "geometry": { "type": "Point", "coordinates": [ -68.781216583194791, 44.795429096250771 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Evergreen Woods" }, "geometry": { "type": "Point", "coordinates": [ -68.736054885996126, 44.825947914089944 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Rolling Meadows" }, "geometry": { "type": "Point", "coordinates": [ -68.731602831194337, 44.827114255306583 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Stillwater Gardens" }, "geometry": { "type": "Point", "coordinates": [ -68.760313308754547, 44.827595318949591 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bangor Gardens" }, "geometry": { "type": "Point", "coordinates": [ -68.781823534028419, 44.821186664919452 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Kenduskeag Gardens" }, "geometry": { "type": "Point", "coordinates": [ -68.787861657919848, 44.820371546958 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Griffin Park" }, "geometry": { "type": "Point", "coordinates": [ -68.810335205027087, 44.822498562338019 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Park Woods" }, "geometry": { "type": "Point", "coordinates": [ -68.810803044682999, 44.823640229060985 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Capehart" }, "geometry": { "type": "Point", "coordinates": [ -68.814916086153914, 44.823228933621742 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bean Estates" }, "geometry": { "type": "Point", "coordinates": [ -68.804916996810562, 44.822841752294181 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Fairways" }, "geometry": { "type": "Point", "coordinates": [ -68.798226636220363, 44.794485875278518 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Old Capehart" }, "geometry": { "type": "Point", "coordinates": [ -68.821824544702139, 44.8417824098387 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Birch Hill Estates" }, "geometry": { "type": "Point", "coordinates": [ -68.78921921370646, 44.846984270242203 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Judson Heights" }, "geometry": { "type": "Point", "coordinates": [ -68.79317451043886, 44.84283104565975 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Whispering Meadows" }, "geometry": { "type": "Point", "coordinates": [ -68.775185019789689, 44.830860686878715 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Church Woods" }, "geometry": { "type": "Point", "coordinates": [ -68.791345620340834, 44.862451323094689 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Six Mile Falls" }, "geometry": { "type": "Point", "coordinates": [ -68.83160507263635, 44.862984420693671 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Target Industrial Park" }, "geometry": { "type": "Point", "coordinates": [ -68.825922277348113, 44.788552598173354 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Banair Industrial Park" }, "geometry": { "type": "Point", "coordinates": [ -68.8231776319397, 44.792846444638464 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Dowd Industrial Park" }, "geometry": { "type": "Point", "coordinates": [ -68.824264298007819, 44.782671141041966 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Barkersville" }, "geometry": { "type": "Point", "coordinates": [ -68.781235838405266, 44.786999822890138 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Mount Hope" }, "geometry": { "type": "Point", "coordinates": [ -68.724380785562801, 44.823285539765855 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Glenwood" }, "geometry": { "type": "Point", "coordinates": [ -68.797335638662176, 44.824147549033405 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Westland" }, "geometry": { "type": "Point", "coordinates": [ -68.797134358790913, 44.812318638817707 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Olive Heights" }, "geometry": { "type": "Point", "coordinates": [ -68.783815703191067, 44.781250130473772 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Job Corps" }, "geometry": { "type": "Point", "coordinates": [ -68.821692651190943, 44.825295909968887 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "East Side" }, "geometry": { "type": "Point", "coordinates": [ -68.762980739350709, 44.809345022046962 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "EMHS" }, "geometry": { "type": "Point", "coordinates": [ -68.802865844073395, 44.814489458651728 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Penjajawoc Marsh" }, "geometry": { "type": "Point", "coordinates": [ -68.759748971093458, 44.840511795453416 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Lyons Ledge" }, "geometry": { "type": "Point", "coordinates": [ -68.827761889778884, 44.837079485575494 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Cedar Falls" }, "geometry": { "type": "Point", "coordinates": [ -68.812467788904257, 44.84195126009498 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Pray's MHP" }, "geometry": { "type": "Point", "coordinates": [ -68.818898815100511, 44.850162614166415 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Forest Park" }, "geometry": { "type": "Point", "coordinates": [ -68.787339878625872, 44.808271970672386 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Rainbow MHP" }, "geometry": { "type": "Point", "coordinates": [ -68.818548677785543, 44.834005339662411 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "West Bangor" }, "geometry": { "type": "Point", "coordinates": [ -68.830234352307116, 44.795355024289485 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Martel's MHP" }, "geometry": { "type": "Point", "coordinates": [ -68.827795877539785, 44.797019318664461 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Hildreth Industrial Park" }, "geometry": { "type": "Point", "coordinates": [ -68.837951333623124, 44.797432609725618 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Heritage Industrial Park" }, "geometry": { "type": "Point", "coordinates": [ -68.837059841753458, 44.792506293726298 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bangor Industrial Park" }, "geometry": { "type": "Point", "coordinates": [ -68.793560311951595, 44.784325743543896 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Holiday MHP" }, "geometry": { "type": "Point", "coordinates": [ -68.769478238543712, 44.834117381246067 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "BIA Commercial Park" }, "geometry": { "type": "Point", "coordinates": [ -68.815973242077462, 44.818311372011195 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Maine Air National Guard" }, "geometry": { "type": "Point", "coordinates": [ -68.821610482568701, 44.81773845301548 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Maine Business Enterprise Park" }, "geometry": { "type": "Point", "coordinates": [ -68.807432968033453, 44.801433424551412 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Waterworks" }, "geometry": { "type": "Point", "coordinates": [ -68.74354432132121, 44.81195974297615 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Westgate Manor" }, "geometry": { "type": "Point", "coordinates": [ -68.798387371956224, 44.810100922041151 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Longrale Park" }, "geometry": { "type": "Point", "coordinates": [ -68.797058967062327, 44.809361473265312 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Ross Manor" }, "geometry": { "type": "Point", "coordinates": [ -68.784035039567655, 44.82596724423906 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Orchard Hills" }, "geometry": { "type": "Point", "coordinates": [ -68.786158333682451, 44.833133880825706 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Deer Pond" }, "geometry": { "type": "Point", "coordinates": [ -68.804099859141971, 44.831601697812268 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Oak Ridge" }, "geometry": { "type": "Point", "coordinates": [ -68.74198314185611, 44.846579803999532 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Pine Meadows" }, "geometry": { "type": "Point", "coordinates": [ -68.814603464916274, 44.846945738100835 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Elden Heights" }, "geometry": { "type": "Point", "coordinates": [ -68.847977434211785, 44.864545336636063 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Darling Parke" }, "geometry": { "type": "Point", "coordinates": [ -68.77457909256016, 44.827984957109727 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Evergreen Acres" }, "geometry": { "type": "Point", "coordinates": [ -68.823294370312908, 44.83160947464021 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Sable Ridge" }, "geometry": { "type": "Point", "coordinates": [ -68.824584722683582, 44.834137242342599 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Pinewood" }, "geometry": { "type": "Point", "coordinates": [ -68.82162182050071, 44.836023653804361 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Riverwalk Village" }, "geometry": { "type": "Point", "coordinates": [ -68.728938273607724, 44.819834596854179 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Meadowbrook" }, "geometry": { "type": "Point", "coordinates": [ -68.731797770251262, 44.819043155337283 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Parkeast" }, "geometry": { "type": "Point", "coordinates": [ -68.759715791989336, 44.822282128379157 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "The Willows" }, "geometry": { "type": "Point", "coordinates": [ -68.758390619551093, 44.822007881959784 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Serenity Acres" }, "geometry": { "type": "Point", "coordinates": [ -68.730902081076167, 44.857579042749421 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Stillwater Oaks" }, "geometry": { "type": "Point", "coordinates": [ -68.727038516854122, 44.860592342802029 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "The Terraces" }, "geometry": { "type": "Point", "coordinates": [ -68.763345941025506, 44.80261100118981 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Sunset Meadows" }, "geometry": { "type": "Point", "coordinates": [ -68.797009228504692, 44.807363830592728 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Dillingham" }, "geometry": { "type": "Point", "coordinates": [ -68.782889541799278, 44.783659681786098 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Ledgewood" }, "geometry": { "type": "Point", "coordinates": [ -68.799458212782184, 44.814380000165542 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Willowbrook" }, "geometry": { "type": "Point", "coordinates": [ -68.803971127696357, 44.818460073813313 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Crestwood Place" }, "geometry": { "type": "Point", "coordinates": [ -68.803469564695376, 44.817064646265933 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Cedarwood" }, "geometry": { "type": "Point", "coordinates": [ -68.803763896977571, 44.817751898238825 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Northside" }, "geometry": { "type": "Point", "coordinates": [ -68.811596006830243, 44.82124339420524 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Chez Nous Estates" }, "geometry": { "type": "Point", "coordinates": [ -68.814322773847906, 44.828121432466503 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Streamside" }, "geometry": { "type": "Point", "coordinates": [ -68.810204917733458, 44.832923056305077 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Boyd Place" }, "geometry": { "type": "Point", "coordinates": [ -68.76074095961593, 44.803497682872518 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Wing Woods" }, "geometry": { "type": "Point", "coordinates": [ -68.753990774762443, 44.810190204717983 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Eagle Crest" }, "geometry": { "type": "Point", "coordinates": [ -68.735866631451302, 44.816913929806894 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Meadowbrook Ridge" }, "geometry": { "type": "Point", "coordinates": [ -68.732518614217938, 44.823204928444937 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Park Manor" }, "geometry": { "type": "Point", "coordinates": [ -68.762392411823512, 44.821359472358893 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Grandview Estates" }, "geometry": { "type": "Point", "coordinates": [ -68.775788898625223, 44.833399426566395 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Village Woods" }, "geometry": { "type": "Point", "coordinates": [ -68.78294703198587, 44.849976935801671 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Woodridge I" }, "geometry": { "type": "Point", "coordinates": [ -68.781859146892756, 44.848410050042929 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bomarc" }, "geometry": { "type": "Point", "coordinates": [ -68.78586359634788, 44.852304166185114 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Northwood" }, "geometry": { "type": "Point", "coordinates": [ -68.793805895664207, 44.823126369660322 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Pinewoods" }, "geometry": { "type": "Point", "coordinates": [ -68.788825639122336, 44.824365118976857 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bradford Commons" }, "geometry": { "type": "Point", "coordinates": [ -68.787835684003099, 44.822629426948616 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Wildwood" }, "geometry": { "type": "Point", "coordinates": [ -68.783898242307345, 44.824568881791699 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Mallard Pond" }, "geometry": { "type": "Point", "coordinates": [ -68.78304402811672, 44.823805370177205 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Ernst Manor" }, "geometry": { "type": "Point", "coordinates": [ -68.781502525522725, 44.823705716490942 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Morningside" }, "geometry": { "type": "Point", "coordinates": [ -68.786541938934022, 44.824117385302642 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Autumn Park" }, "geometry": { "type": "Point", "coordinates": [ -68.795256813005778, 44.808700563154936 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "The Meadows" }, "geometry": { "type": "Point", "coordinates": [ -68.785057483481353, 44.818860375735298 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Heritage" }, "geometry": { "type": "Point", "coordinates": [ -68.772262200101707, 44.826798608605166 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Darboro" }, "geometry": { "type": "Point", "coordinates": [ -68.773960438669462, 44.83205794462333 ] } }
+,
+{ "type": "Feature", "properties": { "Label": null }, "geometry": { "type": "Point", "coordinates": [ -68.772470417804328, 44.824821359910104 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Woodridge II" }, "geometry": { "type": "Point", "coordinates": [ -68.778596453596535, 44.846050675713386 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Hemlock Ridge" }, "geometry": { "type": "Point", "coordinates": [ -68.785751676458332, 44.837459156596744 ] } }
+,
+{ "type": "Feature", "properties": { "Label": null }, "geometry": { "type": "Point", "coordinates": [ -68.814978891931887, 44.82721671234642 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Sussex Pines" }, "geometry": { "type": "Point", "coordinates": [ -68.812786004808999, 44.830160080394059 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Downtown" }, "geometry": { "type": "Point", "coordinates": [ -68.770300658004842, 44.801901095227912 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Waterfront" }, "geometry": { "type": "Point", "coordinates": [ -68.772149944779201, 44.794567429218112 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Hardwood Acres" }, "geometry": { "type": "Point", "coordinates": [ -68.772838830610411, 44.85595033840373 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bunker Lane" }, "geometry": { "type": "Point", "coordinates": [ -68.83594487764401, 44.847478273023377 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Mt Hope Estates" }, "geometry": { "type": "Point", "coordinates": [ -68.752137112781725, 44.818538295693607 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Edgewood" }, "geometry": { "type": "Point", "coordinates": [ -68.7630067347433, 44.871532422140639 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Hillbrook" }, "geometry": { "type": "Point", "coordinates": [ -68.771037307272209, 44.860276369206133 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Widewaters" }, "geometry": { "type": "Point", "coordinates": [ -68.754220563074952, 44.833060828471687 ] } }
+,
+{ "type": "Feature", "properties": { "Label": null }, "geometry": { "type": "Point", "coordinates": [ -68.784343345291532, 44.82702182861393 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Longview" }, "geometry": { "type": "Point", "coordinates": [ -68.740177706751126, 44.842264177323734 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Stillwater Professional Park" }, "geometry": { "type": "Point", "coordinates": [ -68.749688176780921, 44.836219096618983 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bangor Parkade" }, "geometry": { "type": "Point", "coordinates": [ -68.756860721270087, 44.828619118453446 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Sunbury Village" }, "geometry": { "type": "Point", "coordinates": [ -68.807449725871194, 44.821041860702472 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Fairmount" }, "geometry": { "type": "Point", "coordinates": [ -68.792497596342329, 44.799624912078912 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Deerfield" }, "geometry": { "type": "Point", "coordinates": [ -68.810408862044895, 44.824746252057622 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bangor International Airport" }, "geometry": { "type": "Point", "coordinates": [ -68.818410875078143, 44.807813460620423 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Dorothea Dix Hospital" }, "geometry": { "type": "Point", "coordinates": [ -68.742825560555104, 44.817714186951697 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Eastern Maine Community College" }, "geometry": { "type": "Point", "coordinates": [ -68.743693400792253, 44.825189069535277 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bangor Mall" }, "geometry": { "type": "Point", "coordinates": [ -68.749672179259349, 44.830557490789545 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Maine Square Mall" }, "geometry": { "type": "Point", "coordinates": [ -68.741769834450167, 44.837265439190375 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Mid-Maine Mall" }, "geometry": { "type": "Point", "coordinates": [ -68.743404714945754, 44.836095218480494 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bangor City Forest" }, "geometry": { "type": "Point", "coordinates": [ -68.73903981470329, 44.864963521073193 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Walden-Parke Preserve" }, "geometry": { "type": "Point", "coordinates": [ -68.749590153592209, 44.873560550160128 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Broadway Shopping Center" }, "geometry": { "type": "Point", "coordinates": [ -68.777345733117073, 44.823755063458343 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Broadway Park" }, "geometry": { "type": "Point", "coordinates": [ -68.770500024160299, 44.812246832895127 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Fieldstone" }, "geometry": { "type": "Point", "coordinates": [ -68.787405035717569, 44.825492223226725 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Astor Place" }, "geometry": { "type": "Point", "coordinates": [ -68.784101443758772, 44.82728633103909 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Husson University" }, "geometry": { "type": "Point", "coordinates": [ -68.794546402069855, 44.828374234791717 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Union Manor" }, "geometry": { "type": "Point", "coordinates": [ -68.79452653961728, 44.808701424655133 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Univ. of Maine at Augusta - Bangor" }, "geometry": { "type": "Point", "coordinates": [ -68.802912946989693, 44.808208025225134 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Center Street" }, "geometry": { "type": "Point", "coordinates": [ -68.772026675402813, 44.80753928578568 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Kenduskeag Terrace" }, "geometry": { "type": "Point", "coordinates": [ -68.776768548092491, 44.804513380533052 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Intown Plaza" }, "geometry": { "type": "Point", "coordinates": [ -68.776133879766036, 44.806086463970665 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Milelr Square" }, "geometry": { "type": "Point", "coordinates": [ -68.774632423169791, 44.806861570164067 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Cumberland Place" }, "geometry": { "type": "Point", "coordinates": [ -68.773325879967302, 44.806421814215433 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Nason Park Manor" }, "geometry": { "type": "Point", "coordinates": [ -68.765418449417552, 44.801954412753666 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Penobscot Plaza" }, "geometry": { "type": "Point", "coordinates": [ -68.766730087826303, 44.799179717885039 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Fourteenth Street" }, "geometry": { "type": "Point", "coordinates": [ -68.791903217899886, 44.806528235258234 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bass Park" }, "geometry": { "type": "Point", "coordinates": [ -68.781773371132502, 44.789647623789264 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Hollywood Casino" }, "geometry": { "type": "Point", "coordinates": [ -68.776749777161001, 44.787993110983471 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Bangor Muni Golf Course" }, "geometry": { "type": "Point", "coordinates": [ -68.795561619412751, 44.790327113344624 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Cynthis Circle" }, "geometry": { "type": "Point", "coordinates": [ -68.793365077645618, 44.821577978638921 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Village Green" }, "geometry": { "type": "Point", "coordinates": [ -68.79128368499498, 44.823156261576955 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "DeWitt" }, "geometry": { "type": "Point", "coordinates": [ -68.772470417804328, 44.824821359910104 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "North French" }, "geometry": { "type": "Point", "coordinates": [ -68.771171151632572, 44.822154298319752 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Howard" }, "geometry": { "type": "Point", "coordinates": [ -68.753265945303241, 44.813170941097248 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Hancock" }, "geometry": { "type": "Point", "coordinates": [ -68.758615830394803, 44.805158355599296 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Mildred-Nason" }, "geometry": { "type": "Point", "coordinates": [ -68.804489700980511, 44.795901710712592 ] } }
+,
+{ "type": "Feature", "properties": { "Label": "Clyde Rd" }, "geometry": { "type": "Point", "coordinates": [ -68.781416177254314, 44.816771981533989 ] } }
+
+]
+}

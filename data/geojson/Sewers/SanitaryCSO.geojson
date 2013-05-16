@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ID_Number": "006", "Name": "Kenduskeag West", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.769341581478955, 44.798818827733989 ] } }
+,
+{ "type": "Feature", "properties": { "ID_Number": "011", "Name": "Meadowbrook", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.774899305022558, 44.804486151134135 ] } }
+,
+{ "type": "Feature", "properties": { "ID_Number": "023", "Name": "Central St", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.771146343450553, 44.802849427370845 ] } }
+,
+{ "type": "Feature", "properties": { "ID_Number": "009", "Name": "Hammond St", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.770483465860593, 44.801801693585112 ] } }
+,
+{ "type": "Feature", "properties": { "ID_Number": "007", "Name": "Kenduskeag East", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.768617792646893, 44.798944980802148 ] } }
+,
+{ "type": "Feature", "properties": { "ID_Number": "020", "Name": "Carr Brook", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.753089745792167, 44.806335635087748 ] } }
+,
+{ "type": "Feature", "properties": { "ID_Number": "016", "Name": "Cemetery", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.78826247728307, 44.814271641533225 ] } }
+,
+{ "type": "Feature", "properties": { "ID_Number": "003", "Name": "Davis Brook", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.772500650548182, 44.793650542141961 ] } }
+,
+{ "type": "Feature", "properties": { "ID_Number": "002", "Name": "Barkersville", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.778121453397233, 44.782838939079348 ] } }
+
+]
+}

@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Public_": "Y", "Type": null, "MakeModel": null, "Capacity": 28, "VarblSpd": null, "Start_Lvl": 0.0, "Stop_Lvl": 0.0, "IntakeElev": 0.0, "TDH": 0, "RTC": null, "SCADA": null, "Yr_Built": 1996, "Data_Sourc": "S-673", "Name": "KENDUSKEAG PUMP STATION", "Curve_Avai": null, "Status": null, "COMMENTS": null, "Flow_Type": "COMBINED", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.76977997991925, 44.79882157728882 ] } }
+,
+{ "type": "Feature", "properties": { "Public_": "Y", "Type": null, "MakeModel": null, "Capacity": 0, "VarblSpd": null, "Start_Lvl": 0.0, "Stop_Lvl": 0.0, "IntakeElev": 73.3, "TDH": 0, "RTC": null, "SCADA": null, "Yr_Built": 1971, "Data_Sourc": "S-684", "Name": "MALL PUMP STATION", "Curve_Avai": null, "Status": "SEPARATED", "COMMENTS": "Outlet elev = 81.5', Rim elev = 93.25'", "Flow_Type": "SANITARY", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.745265045391307, 44.833915444223933 ] } }
+,
+{ "type": "Feature", "properties": { "Public_": "Y", "Type": null, "MakeModel": null, "Capacity": 0, "VarblSpd": null, "Start_Lvl": 131.7, "Stop_Lvl": 129.5, "IntakeElev": 127.5, "TDH": 0, "RTC": null, "SCADA": null, "Yr_Built": 2002, "Data_Sourc": "S-851", "Name": "HILDRETH ST PUMP STATION", "Curve_Avai": null, "Status": "SEPARATED", "COMMENTS": null, "Flow_Type": "SANITARY", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.837431997291461, 44.795114720817097 ] } }
+,
+{ "type": "Feature", "properties": { "Public_": "Y", "Type": null, "MakeModel": null, "Capacity": 0, "VarblSpd": null, "Start_Lvl": 0.0, "Stop_Lvl": 0.0, "IntakeElev": 103.0, "TDH": 0, "RTC": null, "SCADA": null, "Yr_Built": 1972, "Data_Sourc": "S-696", "Name": "PERRY ROAD PUMP STATION", "Curve_Avai": null, "Status": "SEPARATED", "COMMENTS": null, "Flow_Type": "SANITARY", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.802424632513635, 44.784961893685235 ] } }
+,
+{ "type": "Feature", "properties": { "Public_": "Y", "Type": null, "MakeModel": null, "Capacity": 0, "VarblSpd": null, "Start_Lvl": 0.0, "Stop_Lvl": 0.0, "IntakeElev": 129.9, "TDH": 0, "RTC": null, "SCADA": null, "Yr_Built": 1990, "Data_Sourc": "S-785", "Name": "ODLIN ROAD PUMP STATION", "Curve_Avai": null, "Status": "SEPARATED", "COMMENTS": null, "Flow_Type": "SANITARY", "Enabled": 1 }, "geometry": { "type": "Point", "coordinates": [ -68.809144448238698, 44.792679388071832 ] } }
+
+]
+}
