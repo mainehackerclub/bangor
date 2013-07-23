@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ACFISH2_ID": 127, "DMR_ID": null, "ECCM_ID": "FW4-1", "YEAR": null, "ECCM_SP": "D", "USFW_SP": "ADEGHJN", "DMR_SP": null, "DMR_NAME": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -68.768998872590188, 44.798605558807701 ] ] } }
+]
+}
