@@ -12,7 +12,7 @@
         body { color:#444; max-width:50em; margin:1em; font:normal 1rem/1.5rem 'Helvetica Neue', sans-serif; }
         ul { padding: 0; }
         li { display: inline; margin-right: 10px; list-style-type: none; }
-        pre { background: #eee; }
+        code, pre { background: #eee; }
     </style>
 </head>
 
@@ -34,25 +34,28 @@
 
 <div class='content'>
     <h2>How do you use it?</h2>
-    <p>All of the data here has been converted to the <pre>EPSG: 4326</pre> projection, which is a fairly standard format for most web-related mapping. Conversion was done using <pre>ogr2ogr</pre></p>.
-    <pre>ogr2ogr -s_srs EPSG: 26847 -t_srs EPSG: 4326</pre>
+    <p>All of the data here has been converted to the <code>EPSG: 4326</code> projection, which is a fairly standard format for most web-related mapping. Conversion was done using <code>ogr2ogr</code> with the following command.</p>
+    <p><code>ogr2ogr -s_srs EPSG: 26847 -t_srs EPSG: 4326</code></p>
     <p>There's really no end to the number of ways to use the data, but here are a few.</p>
     
-    <h3>HTML Embeds</h3>
-    <p>Since the data is hosted on GitHub, all files smaller than 10MB (most of them) can be rendered via a script tag.</p>
-    <pre><script src="https://embed.github.com/view/geojson/<username>/<repo>/<ref>/<path_to_file>"></script></pre>
-    <p>Easy.</p>
+        <h3>HTML Embeds</h3>
+        <p>Since the data is hosted on GitHub, all files smaller than 10MB (most of them) can be rendered via a script tag.</p>
+        <p><code><script src="https://embed.github.com/view/geojson/<username>/<repo>/<ref>/<path_to_file>"></script></code></p>
+        <p>Here's what the Airport layer looks like embedded:</p>
+        <script src="https://embed.github.com/view/geojson/mainehackerclub/bangor/master/data/airport.geojson"></script>
+
+        <h3>Stream the data into your web app</h3>
+        <p><a href='http://leafletjs.com/examples/geojson.html'>Leaflet</a> is always a good option, and has a nice <a href='http://leafletjs.com/examples/geojson.html'>tutorial</a> on using GeoJSON.</p>
     
-    <h3>Stream the data into your web app</h3>
-    <p><a href='http://leafletjs.com/examples/geojson.html'>Leaflet</a> is always a good option, and has a nice <a href='http://leafletjs.com/examples/geojson.html'>tutorial</a> on using GeoJSON.</p>
-    
-    <h3>Stream the data into your desktop client</h3>
-    <p>This will vary a big depending on the application you're using, but most support the GeoJSON format.</p>
-    <p>In QGIS, it's as simple as adding a new Vector layer!</p>
-    <img src='http://blog.geomusings.com/images/posts/add_geojson_layer.png'>
-    <p>ArcGIS requires that you install the <a href='https://github.com/RBURHUM/arcgis-ogr/'>ArcGIS-OGR</a> plugin.</p>
-    <p>And <a href='http://tilemill.com'>TileMill</a> supports file streaming as well.</p>
+        <h3>Stream the data into your desktop client</h3>
+        <p>This will vary a big depending on the application you're using, but most support the GeoJSON format.</p>
+        <p>In QGIS, it's as simple as adding a new Vector layer!</p>
+        <img src='http://blog.geomusings.com/images/posts/add_geojson_layer.png'>
+        <p>ArcGIS requires that you install the <a href='https://github.com/RBURHUM/arcgis-ogr/'>ArcGIS-OGR</a> plugin.</p>
+        <p>And <a href='http://tilemill.com'>TileMill</a> supports file streaming from remote resources as well.</p>
+        
     <p>Of course, streaming requires that you have an internet connection, so initial loadup might take longer than it would otherwise.</p>
+    <p><em>Thanks to <a href='https://twitter.com/billdollins'>@billdollins</a> for <a href='http://blog.geomusings.com/2013/06/18/geojson-on-github-now-what/'>this guide</a>.</em></p>
 </div>
 
 <div class='content'>
