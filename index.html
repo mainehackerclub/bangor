@@ -19,13 +19,43 @@
 <header>
     <h1>Bangor</h1>
     <p>Geospatial data for Bangor, ME</p>
-    <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=mainehackerclub&repo=bangor&type=watch" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
-    <iframe src="http://ghbtns.com/github-btn.html?user=mainehackerclub&repo=bangor&type=fork" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
-    <iframe src="http://ghbtns.com/github-btn.html?user=mainehackerclub&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="200" height="20"></iframe>  
+    <iframe class='github-btn' src="http://ghbtns.com/github-btn.html?user=mainehackerclub&repo=bangor&type=watch" allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
+    <iframe class='github-btn' src="http://ghbtns.com/github-btn.html?user=mainehackerclub&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="200" height="20"></iframe>  
 </header>
 
 <div class='content'>
-    <h2>Data</h2>
+    <h2>What is this?</h2>
+</div>
+
+<div class='content'>
+    <h2>Why is it useful?</h2>   
+</div>
+
+<div class='content'>
+    <h2>How do you use it?</h2>
+    <p>All of the data here has been converted to the <pre>EPSG: 4326</pre> projection, which is a fairly standard format for most web-related mapping. Conversion was done using <pre>ogr2ogr</pre></p>.
+    <p><pre>ogr2ogr -s_srs EPSG: 26847 -t_srs EPSG: 4326</pre></p>
+    <p>There's really no end to the number of ways to use the data, but here are a few.</p>
+    
+    <h3>HTML Embeds</h3>
+    <p>Since the data is hosted on GitHub, all files smaller than 10MB (most of them) can be rendered via a script tag.</p>
+    <pre><script src="https://embed.github.com/view/geojson/<username>/<repo>/<ref>/<path_to_file>"></script></pre>
+    <p>Easy.</p>
+    
+    <h3>Stream the data into your web app</h3>
+    <p><a href='http://leafletjs.com/examples/geojson.html'>Leaflet</a> is always a good option, and has a nice <a href='http://leafletjs.com/examples/geojson.html'>tutorial</a> on using GeoJSON.</p>
+    
+    <h3>Stream the data into your desktop client</h3>
+    <p>This will vary a big depending on the application you're using, but most support the GeoJSON format.</p>
+    <p>In QGIS, it's as simple as adding a new Vector layer!</p>
+    <img src='http://blog.geomusings.com/images/posts/add_geojson_layer.png'>
+    <p>ArcGIS requires that you install the <a href='https://github.com/RBURHUM/arcgis-ogr/'>ArcGIS-OGR</a> plugin.</p>
+    <p>And <a href='http://tilemill.com'>TileMill</a> supports file streaming as well.</p>
+    <p>Of course, streaming requires that you have an internet connection, so initial loadup might take longer than it would otherwise.</p>
+</div>
+
+<div class='content'>
+    <h2>The data</h2>
     <ul>
         <li><a href='https://github.com/mainehackerclub/bangor/blob/master/data/airport.geojson'>Airport</a></li>
         <li><a href='https://github.com/mainehackerclub/bangor/blob/master/data/antenna.geojson'>Antennae</a></li>
@@ -64,6 +94,12 @@
         <li><a href='https://github.com/mainehackerclub/bangor/blob/master/data/wetland.geojson'>Wetland</a></li>
         <li><a href='https://github.com/mainehackerclub/bangor/blob/master/data/zoning.geojson'>Zoning</a></li>
     </ul>
+</div>
+
+<div class='content'>
+    <h2>Questions?</h2>
+    <p>The folks at the <a href='http://hackmaine.org'>Maine Hacker Club</a> are doing a bit of work keeping the data updated and converting it to a more web-friendly format. They're very friendly; you should head over to one of their <a href='http://www.meetup.com/Hacker-Club/'>Meetups</a> to say hello, and talk about the dataset!</p>
+    <p>If you're looking for something a little more immediate, feel free to email <a href='mailto:hi@jacquestardie.org'>Jacques</a>.</p>
 </div>
 
 <script type="text/javascript">
