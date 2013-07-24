@@ -12,6 +12,7 @@
         body { color:#444; max-width:50em; margin:1em; font:normal 1rem/1.5rem 'Helvetica Neue', sans-serif; }
         ul { padding: 0; }
         li { display: inline; margin-right: 10px; list-style-type: none; }
+        pre { background: #eee; }
     </style>
 </head>
 
@@ -34,7 +35,7 @@
 <div class='content'>
     <h2>How do you use it?</h2>
     <p>All of the data here has been converted to the <pre>EPSG: 4326</pre> projection, which is a fairly standard format for most web-related mapping. Conversion was done using <pre>ogr2ogr</pre></p>.
-    <p><pre>ogr2ogr -s_srs EPSG: 26847 -t_srs EPSG: 4326</pre></p>
+    <pre>ogr2ogr -s_srs EPSG: 26847 -t_srs EPSG: 4326</pre>
     <p>There's really no end to the number of ways to use the data, but here are a few.</p>
     
     <h3>HTML Embeds</h3>
