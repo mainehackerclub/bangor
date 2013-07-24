@@ -12,8 +12,8 @@
         body { color:#444; max-width:50em; margin:1em; font:normal 1rem/1.5rem 'Helvetica Neue', sans-serif; }
         ul { padding: 0; }
         li { display: inline; margin-right: 10px; list-style-type: none; }
-        code, pre { background: #eee; }
-        .content { padding-left: 2em; border-left: 1em solid #eee; }
+        code, pre { background: #f3f3f3; padding 1px 2px; border-radius: 2px; }
+        .content { padding-left: 1em; border-left: 5px solid #DBC5C4; }
     </style>
 </head>
 
@@ -41,7 +41,7 @@
     
         <h3>HTML Embeds</h3>
         <p>Since the data is hosted on GitHub, all files smaller than 10MB (most of them) can be rendered via a script tag.</p>
-        <p><code><script src="https://embed.github.com/view/geojson/<username>/<repo>/<ref>/<path_to_file>"></script></code></p>
+        <code><script src="https://embed.github.com/view/geojson/<username>/<repo>/<ref>/<path_to_file>"></script></code>
         <p>Here's what the Airport layer looks like embedded:</p>
         <script src="https://embed.github.com/view/geojson/mainehackerclub/bangor/master/data/airport.geojson"></script>
 
